@@ -1,0 +1,10 @@
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\bin\Debug\SoraKhanAssgt.exe.config
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\bin\Debug\SoraKhanAssgt.exe
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\bin\Debug\SoraKhanAssgt.pdb
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.csprojAssemblyReference.cache
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.Properties.Resources.resources
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.frmSixesAndSevens.resources
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.csproj.GenerateResource.cache
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.csproj.CoreCompileInputs.cache
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.exe
+C:\Users\Sora\Desktop\INFT2012\SoraKhanAssgt\SoraKhanAssgt\obj\Debug\SoraKhanAssgt.pdb
